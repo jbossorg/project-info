@@ -367,7 +367,7 @@
         "githubLink": "http://github.com/forge/core",
         "homePage": "http://jboss.org/forge",
         "issueTrackerLink": "http://issues.jboss.org/browse/FORGE",
-        "nodePath": "/forge_projectnav",
+        "nodePath": "/forge",
         "projectName": "Forge",
         "specialIcon": "forge",
         "userForumLink": "http://lists.jboss.org/mailman/listinfo/forge-users"
@@ -1877,7 +1877,7 @@
         "issueTrackerLink": "http://jira.jboss.org/jira/browse/JBSEAM",
         "jiraLink": "http://jira.jboss.org/jira/browse/JBSEAM",
         "license": "LGPL",
-        "nodePath": "/seam_projectnav",
+        "nodePath": "/seam",
         "projectName": "Seam",
         "userForumLink": "https://developer.jboss.org/en/seam"
     },
@@ -2174,22 +2174,6 @@
         "projectName": "Weld",
         "srcLink": "https://github.com/weld",
         "userForumLink": "https://community.jboss.org/en/weld?view=discussions"
-    },
-    {
-        "archived": "false",
-        "description": "A reference implementation (RI) for JSR-299: Java Contexts and Dependency Injection for the Java EE platform (CDI)",
-        "devForumLink": "https://lists.jboss.org/mailman/listinfo/weld-dev",
-        "docsLink": "http://docs.jboss.org/weld/reference/latest/en-US/html",
-        "downloadsLink": "http://www.seamframework.org/Weld/WeldDistributionDownloads",
-        "excludeInProjectMatrix": "false",
-        "githubLink": "http://github.com/weld",
-        "homePage": "http://www.seamframework.org/Weld",
-        "jiraLink": "https://jira.jboss.org/jira/browse/WELD",
-        "knowledgeBaseLink": "http://seamframework.org/Documentation/WebBeansJSR299",
-        "license": "ASL",
-        "nodePath": "/weld_projectnav",
-        "projectName": "Weld",
-        "userForumLink": "http://seamframework.org/Community/WeldUsers"
     },
     {
         "buildLink": "https://ci.wildfly.org/",
