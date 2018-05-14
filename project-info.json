@@ -367,7 +367,7 @@
         "githubLink": "http://github.com/forge/core",
         "homePage": "http://jboss.org/forge",
         "issueTrackerLink": "http://issues.jboss.org/browse/FORGE",
-        "nodePath": "/forge",
+        "nodePath": "/forge_projectnav",
         "projectName": "Forge",
         "specialIcon": "forge",
         "userForumLink": "http://lists.jboss.org/mailman/listinfo/forge-users"
@@ -740,21 +740,6 @@
         "userForumLink": "http://community.jboss.org/community/jbossosgi?view=discussions"
     },
     {
-        "anonymousLink": "http://anonsvn.jboss.org/repos/jbossas/",
-        "archived": "true",
-        "description": "JBoss Application Server 6",
-        "downloadsLink": "/jbossas/downloads",
-        "excludeInProjectMatrix": "false",
-        "fisheyeLink": "http://source.jboss.org/browse/JBossAS",
-        "issueTrackerLink": "http://jira.jboss.com/jira/browse/JBAS",
-        "jiraLink": "http://jira.jboss.com/jira/browse/JBAS",
-        "knowledgeBaseLink": "http://www.jboss.org/community/docs/DOC-12934",
-        "license": "LGPL",
-        "nodePath": "/jbossas6",
-        "projectName": "JBoss AS 6",
-        "userForumLink": "http://www.jboss.org/index.html?module=bb&op=viewforum&f=287"
-    },
-    {
         "anonymousLink": "http://anonsvn.jboss.org/repos/jbossblog/",
         "archived": "true",
         "buildLink": "/jbossblog/build",
@@ -869,22 +854,6 @@
         "jiraLink": "http://jira.jboss.com/jira/browse/JBFORUMS",
         "knowledgeBaseLink": "http://www.jboss.org/wiki/JBossForums",
         "nodePath": "/jbossforums",
-        "projectName": "JBoss Forums",
-        "userForumLink": "http://www.jboss.com/index.html?module=bb&op=viewforum&f=247",
-        "viewvcLink": "http://viewvc.jboss.org/cgi-bin/viewvc.cgi/labs/labs/jbossforums/"
-    },
-    {
-        "anonymousLink": "http://anonsvn.jboss.org/repos/labs/labs/jbossforums/",
-        "archived": "true",
-        "description": "JBoss Forums is a JSF (Java Server Faces) based application designed for the JBoss Portal product.",
-        "devForumLink": "http://www.jboss.com/index.html?module=bb&op=viewforum&f=242",
-        "docsLink": "/jbossforums/Documentation",
-        "downloadsLink": "/jbossforums/Downloads/new-downloads",
-        "excludeInProjectMatrix": "false",
-        "issueTrackerLink": "http://jira.jboss.com/jira/browse/JBFORUMS",
-        "jiraLink": "http://jira.jboss.com/jira/browse/JBFORUMS",
-        "knowledgeBaseLink": "http://www.jboss.org/wiki/JBossForums",
-        "nodePath": "/jbossforumsBootstrap",
         "projectName": "JBoss Forums",
         "userForumLink": "http://www.jboss.com/index.html?module=bb&op=viewforum&f=247",
         "viewvcLink": "http://viewvc.jboss.org/cgi-bin/viewvc.cgi/labs/labs/jbossforums/"
@@ -1037,21 +1006,6 @@
         "srcLink": "/jbossremoting/sourcecode",
         "userForumLink": "https://community.jboss.org/en/jbossremoting",
         "viewvcLink": "http://viewvc.jboss.org/cgi-bin/viewvc.cgi/jbossremoting"
-    },
-    {
-        "anonymousLink": "http://anonsvn.jboss.org/repos/jbossas/projects/security/",
-        "archived": "false",
-        "blogLink": "http://anil-identity.blogspot.com/",
-        "committerLink": "https://svn.jboss.org/repos/jbossas/projects/security/",
-        "description": "JBoss Security is an umbrella project that provides security capabilities in the Java world.",
-        "docsLink": "/jbosssecurity/docs",
-        "downloadsLink": "/jbosssecurity/downloads",
-        "excludeInProjectMatrix": "false",
-        "jiraLink": "http://jira.jboss.org/jira/browse/SECURITY",
-        "knowledgeBaseLink": "http://wiki.jboss.org/wiki/Wiki.jsp?page=JBossSX",
-        "nodePath": "/jbosssecurity",
-        "projectName": "JBoss Security",
-        "userForumLink": "http://jboss.com/index.html?module=bb&op=viewforum&f=49"
     },
     {
         "anonymousLink": "http://anonsvn.jboss.org/repos/jboss-sso",
@@ -1332,12 +1286,6 @@
         "projectName": "LiveOak",
         "twitterLink": "https://twitter.com/liveoak_io",
         "userForumLink": "https://community.jboss.org/en/liveoak"
-    },
-    {
-        "archived": "false",
-        "excludeInProjectMatrix": "false",
-        "nodePath": "/logging",
-        "projectName": "Logging"
     },
     {
         "anonymousLink": "http://anonsvn.jboss.org/repos/mass/",
@@ -1877,7 +1825,7 @@
         "issueTrackerLink": "http://jira.jboss.org/jira/browse/JBSEAM",
         "jiraLink": "http://jira.jboss.org/jira/browse/JBSEAM",
         "license": "LGPL",
-        "nodePath": "/seam",
+        "nodePath": "/seam_projectnav",
         "projectName": "Seam",
         "userForumLink": "https://developer.jboss.org/en/seam"
     },
