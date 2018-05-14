@@ -735,7 +735,7 @@
         "jiraLink": "https://issues.jboss.org/browse/JBOSGI",
         "knowledgeBaseLink": "http://community.jboss.org/wiki/JBossOSGi",
         "license": "LGPL",
-        "nodePath": "/jbossas/oldsubs/osgi",
+        "nodePath": "/jbossas/osgi",
         "projectName": "JBoss OSGi",
         "userForumLink": "http://community.jboss.org/community/jbossosgi?view=discussions"
     },
