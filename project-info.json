@@ -29,6 +29,17 @@
         "twitterLink": "https://twitter.com/aerogears"
     },
     {
+        "archived": "false",
+        "nodePath": "/apicurio",
+        "projectName": "apicurio",
+        "homePage": "https://www.apicur.io",
+        "license": "ASL",
+        "description": "Design beautiful, functional APIs with zero coding, using OpenAPI",
+        "docsLink": "https://apicurio-studio.readme.io/docs",
+        "githubLink": "https://github.com/Apicurio",
+        "issueTrackerLink": "https://github.com/apicurio/apicurio-studio/issues"
+    },
+    {
         "chatLink": "http://www.apiman.io/latest/chat.html",
         "description": "The apiman project brings an open source development methodology to API Management, coupling a rich API design & configuration layer with a blazingly fast runtime.",
         "docsLink": "http://www.apiman.io/latest/tutorials.html",
@@ -460,7 +471,7 @@
         "communityLink": "http://hawt.io/community/",
         "description": "Open Source Libraries for Mobile Connectivity",
         "docsLink": "http://hawt.io/docs/",
-        "downloadsLink": "http://hawt.io/getstarted/",
+        "downloadsLink": "http://hawt.io/docs/get-started/",
         "githubLink": "https://github.com/hawtio/hawtio",
         "homePage": "http://hawt.io",
         "jiraLink": "https://github.com/hawtio/hawtio/issues?q=is%3Aopen",
@@ -1929,6 +1940,18 @@
         "srcLink": "/stormgrind/sourcecode",
         "twitterLink": "http://twitter.com/stormgrind",
         "userForumLink": "http://community.jboss.org/en/stormgrind?view=discussions"
+    },
+    {
+        "archived": "false",
+        "projectName": "syndesis",
+        "homePage": "http://syndesis.io/",
+        "license": "ASL",
+        "description": "Syndesis provides a rich set of connectors out of the box.",
+        "docsLink": "https://syndesis.io/quickstart/",
+        "userForumLink": "https://syndesis.io/community/",
+        "githubLink": "https://github.com/syndesisio/syndesis",
+        "issueTrackerLink": "https://github.com/syndesisio/syndesis/issues",
+        "nodePath": "/syndesis"
     },
     {
         "archived": "false",
