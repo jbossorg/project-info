@@ -469,9 +469,9 @@
     {
         "chatLink": "http://webchat.freenode.net/?channels=hawtio",
         "communityLink": "http://hawt.io/community/",
-        "description": "Open Source Libraries for Mobile Connectivity",
+        "description": "A modular Web console for managing Java applications",
         "docsLink": "http://hawt.io/docs/",
-        "downloadsLink": "http://hawt.io/docs/get-started/",
+        "downloadsLink": "https://github.com/hawtio/hawtio/releases",
         "githubLink": "https://github.com/hawtio/hawtio",
         "homePage": "http://hawt.io",
         "jiraLink": "https://github.com/hawtio/hawtio/issues?q=is%3Aopen",
@@ -479,7 +479,6 @@
         "mailingListLink": "https://groups.google.com/forum/#!forum/hawtio",
         "nodePath": "/hawtio",
         "projectName": "hawtio",
-        "srcLink": "https://github.com/hawtio/hawtio",
         "twitterLink": "https://twitter.com/hawtio"
     },
     {
@@ -1946,7 +1945,7 @@
         "projectName": "syndesis",
         "homePage": "http://syndesis.io/",
         "license": "ASL",
-        "description": "Syndesis provides a rich set of connectors out of the box.",
+        "description": "Syndesis provides a low code development platform with a rich set of connectors out of the box.",
         "docsLink": "https://syndesis.io/quickstart/",
         "userForumLink": "https://syndesis.io/community/",
         "githubLink": "https://github.com/syndesisio/syndesis",
@@ -2161,6 +2160,13 @@
         "nodePath": "/wildfly",
         "projectName": "WildFly Application Server",
         "userForumLink": "https://developer.jboss.org/en/wildfly"
+    },
+    {
+        "nodePath": "/wildfly-camel",
+        "description": "The WildFly-Camel subsystem allows you to add Camel Routes as part of the WildFly configuration. Routes can be deployed as part of JavaEE applications. JavaEE components can access the Camel Core API and various Camel Component APIs.",
+        "projectName": "Wildfly Camel",
+        "homePage": "https://wildfly-extras.github.io/wildfly-camel/",
+        "license": "ASL"
     },
     {
         "anonymousGitLink": "https://github.com/wildfly-swarm/wildfly-swarm.git",
